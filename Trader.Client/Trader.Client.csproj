@@ -42,7 +42,7 @@
     <PackageReference Include="DynamicData" Version="6.13.18" />
     <PackageReference Include="ReactiveUI" Version="10.5.7" />
     <PackageReference Include="Dragablz" Version="0.0.3.197" />
-    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="log4net" Version="2.0.10" />
     <PackageReference Include="MahApps.Metro" Version="2.0.0-alpha0589" />
     <PackageReference Include="MaterialDesignThemes" Version="2.3.1.953" />
     <PackageReference Include="StructureMap" Version="4.7.1" />
